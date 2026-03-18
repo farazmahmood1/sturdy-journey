@@ -1,0 +1,7 @@
+{
+  "name": "Khidmaat - Premium UAE Services",
+  "description": "Modern, premium service website for Khidmaat, offering repair and installation services in the UAE.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

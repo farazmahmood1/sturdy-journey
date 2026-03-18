@@ -1,0 +1,65 @@
+{
+  "Dubai": {
+    "name": "Times Square Centre - SHARAF DG",
+    "address": "Sheikh Zayed Road, Dubai",
+    "phone": "600 502034",
+    "timings": {
+      "weekdays": "Monday – Thursday: 10am – 10pm",
+      "weekends": "Friday – Sunday: 10am – 11.30pm"
+    }
+  },
+  "Abu Dhabi": {
+    "name": "Marina Mall - SHARAF DG",
+    "address": "Corniche Road, Abu Dhabi",
+    "phone": "600 502035",
+    "timings": {
+      "weekdays": "Monday – Thursday: 10am – 9pm",
+      "weekends": "Friday – Sunday: 10am – 10.30pm"
+    }
+  },
+  "Sharjah": {
+    "name": "Mega Mall - SHARAF DG",
+    "address": "Al Wahda Street, Sharjah",
+    "phone": "600 502036",
+    "timings": {
+      "weekdays": "Monday – Thursday: 10am – 9pm",
+      "weekends": "Friday – Sunday: 10am – 10pm"
+    }
+  },
+  "Ajman": {
+    "name": "City Centre Ajman - SHARAF DG",
+    "address": "Sheikh Khalifa Bin Zayed St, Ajman",
+    "phone": "600 502037",
+    "timings": {
+      "weekdays": "Monday – Thursday: 10am – 9pm",
+      "weekends": "Friday – Sunday: 10am – 10pm"
+    }
+  },
+  "Umm Al Quwain": {
+    "name": "UAQ Mall - SHARAF DG",
+    "address": "King Faisal Road, Umm Al Quwain",
+    "phone": "600 502038",
+    "timings": {
+      "weekdays": "Monday – Thursday: 10am – 8pm",
+      "weekends": "Friday – Sunday: 10am – 9pm"
+    }
+  },
+  "Ras Al Khaimah": {
+    "name": "Manar Mall - SHARAF DG",
+    "address": "Al Muntasir Rd, Ras Al Khaimah",
+    "phone": "600 502039",
+    "timings": {
+      "weekdays": "Monday – Thursday: 10am – 9pm",
+      "weekends": "Friday – Sunday: 10am – 10pm"
+    }
+  },
+  "Fujairah": {
+    "name": "Fujairah City Centre - SHARAF DG",
+    "address": "Sheikh Khalifa Bin Zayed Highway, Fujairah",
+    "phone": "600 502040",
+    "timings": {
+      "weekdays": "Monday – Thursday: 10am – 9pm",
+      "weekends": "Friday – Sunday: 10am – 10pm"
+    }
+  }
+}
